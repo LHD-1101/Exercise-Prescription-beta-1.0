@@ -1,5 +1,4 @@
-# Exercise-Prescription-beta-1.0
-<h1>👋 Hello World!</h1><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
